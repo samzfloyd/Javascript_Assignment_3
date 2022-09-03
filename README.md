@@ -9,6 +9,7 @@ pattern -
 4 5 6
 7 8 9 10
 
+
 2. Write a program to find whether a given number is armstrong number or
 
 not-
@@ -22,6 +23,8 @@ numbers. Let's try to understand why 153 is an Armstrong number.
 (3*3*3)=27
 So:
 1+125+27=153
+
+
 3. Write a program to find whether a given number is special number or
 
 not-
